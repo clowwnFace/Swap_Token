@@ -1,4 +1,4 @@
-This is a simple swap exchange I created using Solidity,Remix and the Etherscan Sepolia for Verfication,I decided not to use any framework for this particular project though,
+This is a simple swap exchange I created using Solidity,Remix and the Etherscan Sepolia for Verfication,It swaps two tokens : Token A and Token B.I decided not to use any framework for this particular project though,
 I deployed this project to the Sepolia testnet,check out the live project by accessing the contract address:
 Check on Testnet Sepolia on Testnet
 
